@@ -1,0 +1,2 @@
+# virus.bat
+computer.crash
